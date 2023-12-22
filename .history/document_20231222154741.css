@@ -1,0 +1,12 @@
+* {box-sizing:border-box;}
+html, body{width:100%;height:100%;padding:0;margin:0;}
+html {scroll-behavior:smooth;font-size:calc(22px + .4vw);}
+input[type="checkbox"], input[type="radio"] {width:1em;height:1em;}
+select, textarea, button, input {padding:.5vw;border-radius:.5vw;font-size:.9em;}
+a, summary {cursor: pointer}
+
+html {
+  color:rgb(105, 107, 100);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 100;
+}

@@ -1,0 +1,8 @@
+.bending-text {
+  font-size: 24px;
+  font-weight: bold;
+  position: relative;
+  width: 200px; /* Adjust as needed */
+  margin: 50px auto;
+  transform: perspective(300px) rotateX(30deg);
+}
